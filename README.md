@@ -1,4 +1,4 @@
 # Java-Practice
 
-A repository that I have made to practice variaouse concepts of object-oriented Java. \n
+A repository that I have made to practice variaouse concepts of object-oriented Java. 
 Inheritance and Polymorphism: Employee Management
