@@ -1,0 +1,18 @@
+Things I Learned: 
+
+- Primitive data types and objects are two different entities in Java.
+
+- Objects are called reference data types.
+
+- Reason why when you declare a String variable it is written with capital S:
+	- String is not a primitive data type but a class from java.lang package
+	- Since String is a class, it follows PascalCase naming convention 
+	- Whenever we say String <variable> = "", we are instantiating a String object
+	
+- Objects are stored in heap memory and primitive data types are stored in stack memory (both are a part of RAM)
+
+- What happens during <String text = "Hello"> :
+	- text is a reference variable that points to an object of the String class
+	- The actual string data "Hello" is stored in the Heap memory
+	- The variable text itself (the reference) is stored in the Stack memory  
+	
